@@ -22,5 +22,6 @@ int main()
         default: cout<<"Operador no definido";
             exit(1);
     }
-    cout<<"El resultado es: "<<r;
+    cout<<"El resultado es: <<r;
 }
+
